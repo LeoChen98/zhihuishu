@@ -1,3 +1,4 @@
+console.log("智慧树刷课脚本 v1.0 by Leo \r\n项目主页:https://github.com/LeoChen98/zhihuishu");
 var ti = $("body");
 var video = $(".catalogue_ul1 li[id*=video-]");
 var i = 1;
